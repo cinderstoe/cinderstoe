@@ -1,10 +1,7 @@
-<h1 align="center">Hi, i'm cinders</h1>
+<h1 align="center">Hi, i'm cinder.</h1>
 <h3 align="center">A newcomer, really.</h3>
 
-- you can see my works & projects in my own web. [Here's the web ‼️](cinders.netlify.app)
-
 <h3 align="left">Connect with me:</h3>
-to be added
 <p align="left">
 </p>
 
